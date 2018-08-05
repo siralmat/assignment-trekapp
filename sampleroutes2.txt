@@ -1,0 +1,13 @@
+main Starting main route
+31.95,115.77,10,Stop 1
+31.93,115.76,20,*sub1
+31.94,115.75,15,Stop 2
+31.93,115.75,20
+sub1 Entering subroute 1
+31.94,115.75,30,Subroute 1, stop 1
+31.94,115.75,40,Subroute 2, stop 2
+31.93,115.75,10
+sub2 Entering subroute 2
+31.96,115.80,63.0,Subroute 2, stop 1
+31.95,115.78,45.3,Subroute 2, stop 2
+31.95,115.78,40
