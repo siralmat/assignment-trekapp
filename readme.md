@@ -1,4 +1,5 @@
 ![Logo](assets/trekapp-logo.png)
+
 This repository contains a copy of my assignment for Object Oriented Software Engineering in Semester 1, 2018:
 
 > Design and implement an app for use by trekkers and climbers to view possible routes, and track their progress through them.
